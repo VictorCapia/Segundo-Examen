@@ -1,0 +1,25 @@
+tr th{
+	font-weight:bold;
+    }
+tr th, tr td{
+	padding:5px;
+}
+th{
+    border: 5px solid #c1dac4;
+}
+td{
+	border: 5px solid #c3c1da;
+}
+.c1{
+	background:#888c4b;
+}
+.c2{
+	background:#c49b74;
+}
+.c3{
+	background:#e56d73;
+}
+.c4{
+	background:#e6fc83;
+}
+
